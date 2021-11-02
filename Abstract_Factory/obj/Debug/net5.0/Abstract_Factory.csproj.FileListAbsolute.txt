@@ -1,0 +1,16 @@
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\Abstract_Factory.exe
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\Abstract_Factory.deps.json
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\Abstract_Factory.runtimeconfig.json
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\Abstract_Factory.runtimeconfig.dev.json
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\Abstract_Factory.dll
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\ref\Abstract_Factory.dll
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\Abstract_Factory.pdb
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.csproj.AssemblyReference.cache
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.AssemblyInfoInputs.cache
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.AssemblyInfo.cs
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.csproj.CoreCompileInputs.cache
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.dll
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\ref\Abstract_Factory.dll
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.pdb
+C:\Users\mehdi-taran\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.genruntimeconfig.cache
